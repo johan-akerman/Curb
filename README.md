@@ -1,9 +1,6 @@
 # Curb Food
 A simple and temporary landingpage for Curb Food, a startup that is creating a virtual foodcourt designed for delivery. Built with bootstrap. 
 
-# Check out live at:
-https://johan-akerman.github.io/Curb/
-
-## Screenshots
+## Preview
 <img src="https://i.gyazo.com/ef4f59ab5c2b9a3d1cd75b934cbc60de.gif" alt="preview"
 	title="Desktop preview" width="600" /> 
