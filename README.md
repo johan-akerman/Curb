@@ -1,5 +1,5 @@
 # Curb Food
-A simple and temporary landingpage for Curb Food, a startup that is creating a virtual foodcourt designed for delivery. Built with bootstrap. 
+Got in contact with the founder of Curb Food (a startup that is creating a virtual foodcourt designed for delivery) as the company was about to launch. He was in need for a temporary landing page on a short deadline so I helped him out. 
 
 ## Preview
 <img src="https://i.gyazo.com/ef4f59ab5c2b9a3d1cd75b934cbc60de.gif" alt="preview"
