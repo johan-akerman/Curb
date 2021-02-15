@@ -1,5 +1,5 @@
 # Curb Food
-Got in contact with the founder of Curb Food (a startup that is creating a virtual foodcourt designed for delivery) as the company was about to launch. He was in need for a temporary landing page on a short deadline so I helped him out. 
+Got in contact with the founder of Curb Food (a startup that is creating a virtual foodcourt designed for delivery) as the company was about to launch. He was in need for a simple and temporary landing page on a short deadline, so I helped him out! 
 
 Try it out: https://johan-akerman.github.io/CurbFood/
 
