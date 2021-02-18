@@ -6,6 +6,3 @@ Landing page for Curb Food, a startup that is creating a virtual foodcourt desig
 	title="Desktop preview" width="600" /> 
 ## Story about the project
 Got in contact with Carl (the founder of Curb Food) back in May 2020 as the company was about to launch. He was in need for a simple and temporary landing page on a short deadline, so I helped him out! ⏰
-
-Read more about Curb in [this article](https://www.eu-startups.com/2020/12/stockholm-based-curb-secures-e3-2-million-to-create-the-worlds-largest-virtual-food-court/).
-
